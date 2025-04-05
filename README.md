@@ -90,4 +90,4 @@ This project is open-source under the MIT License. You’re free to use, modify,
 
 ## ❤️ Thanks for using Zara!
 
-Made with ❤️ in 🇱🇰
+
