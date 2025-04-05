@@ -61,8 +61,11 @@ Your bot is now live and ready to use!
 ---
 
 ## 📸 Demo Screenshots
-
-
+<img src="https://github.com/user-attachments/assets/dd705453-2f01-46a6-b2b5-e9357e997891" width="200" />
+<img src="https://github.com/user-attachments/assets/e3c13eee-e49e-43a9-857d-1b4ad00f79cb" width="200" />
+<img src="https://github.com/user-attachments/assets/757d987d-38d6-48fe-94a4-f8a9f24eafff" width="200" />
+<img src="https://github.com/user-attachments/assets/567a4ce3-9881-48de-beac-ee0893064ac3" width="200" />
+<img src="https://github.com/user-attachments/assets/6078b191-d684-409b-a385-8096490bfb72" width="200" />
 
 
 ---
