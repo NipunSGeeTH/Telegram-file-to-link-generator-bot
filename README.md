@@ -64,9 +64,6 @@ Your bot is now live and ready to use!
 
 
 
-| Upload a File | Get Links Instantly |
-|---------------|---------------------|
-| ![upload](screenshots/upload.png) | ![links](screenshots/links.png) |
 
 ---
 
