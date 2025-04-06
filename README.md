@@ -1,4 +1,4 @@
-# 🤖 Zara – File to Link Generator Bot
+# 🤖 File to Link Generator Bot
 
 Hi there! I'm **Zara**, a powerful Telegram bot  helps users convert any file into a **direct download link**, **stream link**, and a **Telegram shareable link**. ✨
 
